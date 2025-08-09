@@ -2,6 +2,11 @@
 
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zyfoxx&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>
@@ -25,6 +30,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zyfoxx&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="ZyFoxX's GitHub Stats"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyfoxx&langs_count=8&theme=blue-green" alt="Top Languages"/>
