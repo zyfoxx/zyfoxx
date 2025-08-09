@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm ZyFoxX</h1>
 
+
 ## Programming Languages & Tools
+
 
 ### Backend
 <p align="center">
@@ -52,6 +54,7 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
   </a>
 </p>
+
 
 ### Tools & Others
 <p align="center">
