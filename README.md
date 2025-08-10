@@ -12,12 +12,11 @@ Interested in cyber-attack & Reconnaissance
 
 <h1 align="center">Stats</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyfoxx&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="ZyFoxX's GitHub Stats"/>
-</p>
+<img  alt="stats_banner" height="150px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"/>
 
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyfoxx&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=zyfoxx&count_private=true&theme=algolia&border_radius=20)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyfoxx&langs_count=8&theme=blue-green" alt="Top Languages"/>
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyfoxx&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
